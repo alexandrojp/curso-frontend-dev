@@ -38,3 +38,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ```bash
 py manage.py createsuperuser
 ```
+
+## Commands
+command | parameters | description
+--------|------------|------------
+pip| i | Lorem ipsum is simply dummy text of the printing
+virtualenv | other | is simply dummy text of the printing
+python |
