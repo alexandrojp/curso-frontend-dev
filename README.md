@@ -1,4 +1,4 @@
-# Actividades del curso de front-end developement
+# Actividades del curso de front-end developement :+1:
 
 Foobar is a Python library for dealing with word pluralization.
 ___
