@@ -1,4 +1,6 @@
 # Actividades del curso de front-end developement
+[![Generic badge](https://img.shields.io/badge/build%20C3%20(clang)-passing-<COLOR>.svg)](https://shields.io/)
+
 
 Foobar is a Python library for dealing with word pluralization.
 ___
